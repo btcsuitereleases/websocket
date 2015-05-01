@@ -8,7 +8,7 @@ package main
 import (
 	"errors"
 	"flag"
-	"github.com/btcsuite/websocket"
+	"github.com/btcsuitereleases/websocket"
 	"io"
 	"log"
 	"net/http"

@@ -5,7 +5,7 @@
 package main
 
 import (
-	"github.com/btcsuite/websocket"
+	"github.com/btcsuitereleases/websocket"
 	"log"
 	"net/http"
 	"time"
